@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Gowtham-3932.github.io/frontend",
+  "homepage": "https://github.com/Gowtham-3932/p007_frontend.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
